@@ -19,17 +19,19 @@ Here are some ideas to get you started:
 - Rust
 - TypeScript
 - Astro
+- Nix
 - Linux
- - Nix/NixOS
+  - NixOS
 - MCU
- - IoT and other software integrations with Raspberry Pi series
- - Custom keyboards
+  - IoT and other software integrations with Raspberry Pi series
+  - Custom keyboards
 - Tauri
 
 ### Interested in but not learning yet
 - Haskell
 - Elixir
 - Julia
+- Lua
 
 ### Contact
 1. Access https://younagi.dev/about/
