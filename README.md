@@ -23,12 +23,14 @@ Here are some ideas to get you started:
 - Linux
   - NixOS
 - MCU
-  - IoT and other software integrations with Raspberry Pi series
+  - IoT and other soft & hard integrations
   - Custom keyboards
 - Tauri
 
 ### Interested in but not learning yet
 - Haskell
+- PureScript
+- Elm
 - Elixir
 - Julia
 - Lua
