@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   - IoT and other soft & hard integrations
   - Custom keyboards
 - Tauri
+- Leptos
 
 ### Interested in but not learning yet
 - Haskell
