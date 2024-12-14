@@ -20,22 +20,25 @@ Here are some ideas to get you started:
 
 ### Currently learning
 - Rust
+  - Leptos
 - TypeScript
 - Haskell
+  - TidalCycles
 - Nix
-- Linux
+  - Nix language
   - NixOS
+- Linux
+  - NixOS x Home Manager
 - MCU
   - IoT and other soft & hard integrations
   - Custom keyboards
-- TidalCycles
 - Tauri
-- Leptos
 - Astro
 
 ### Interested in but not learning yet
 - PureScript
 - Elm
+- Erlang
 - Elixir
 - Julia
 - Lua
