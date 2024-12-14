@@ -19,29 +19,33 @@ Here are some ideas to get you started:
 [![bklthwnrkm's GitHub stats](https://github-readme-stats.vercel.app/api?username=brklntmhwk)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently learning
-- Rust
-  - Leptos
-- TypeScript
+
+#### Languages and frameworks
+- Astro
 - Haskell
   - TidalCycles
-- Nix
-  - Nix language
-  - NixOS
-- Linux
-  - NixOS x Home Manager
-- MCU
-  - IoT and other soft & hard integrations
-  - Custom keyboards
+- Nix language
+- Rust
+  - Leptos
 - Tauri
-- Astro
+- TypeScript
+
+#### Fields
+- Bare metal programming
+- Creative programming
+- Desktop env customization
+  - MacOS
+  - NixOS x Home Manager 
+- Native application dev
+- Web dev
 
 ### Interested in but not learning yet
-- PureScript
+- Elixir
 - Elm
 - Erlang
-- Elixir
 - Julia
 - Lua
+- PureScript
 
 ### Contact
 1. Access https://younagi.dev/about/
