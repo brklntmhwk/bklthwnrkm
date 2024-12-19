@@ -1,5 +1,3 @@
-## I'm Nagi(@brklntmhwk)🍃
-
 <!--
 **brklntmhwk/brklntmhwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,9 @@ Here are some ideas to get you started:
   - TidalCycles
 - Nix language
 - Rust
+  - Axum
   - Leptos
+- TailwindCSS
 - Tauri
 - TypeScript
 
